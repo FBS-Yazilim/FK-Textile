@@ -1,7 +1,5 @@
 # FK-Textile 🌟  
 A Modern Textile Business Website for FK Textile
-
-![FK-Textile Banner](https://via.placeholder.com/800x200)  
 *Your go-to solution for smooth and visually appealing textile business websites.*
 
 ---
