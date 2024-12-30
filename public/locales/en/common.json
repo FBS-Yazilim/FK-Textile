@@ -1,0 +1,39 @@
+{
+  "scrollDown" : "Scroll Down",
+  "production-process" : "Our Production Process",
+  "rapid-line" : "Rapid Line, which provides delivery in 2-3 weeks with stock fabric production.",
+  "chart": {
+    "design": "Design - Fashion",
+    "fabric": "Fabric R&D",
+    "sample": "Sample",
+    "cutting": "Cutting Sewing",
+    "quality": "Quality Control",
+    "delivery": "Delivery"
+    },
+  "forMore": {
+    "1": "For more information, you can find details in our",
+    "2": "How We Produce",
+    "3": "section."
+    },
+  "whyChoose" : "WHY CHOOSE US",
+  "whyChooseSec" : {
+    "com" : "Communication",
+    "new" : "Network",
+    "cus" : "Customised",
+    "qua" : "Quality at a fair price",
+    "str" : "Strategic support"
+  },
+  "whyChooseSecDet" : {
+    "comDet" : "We speak fluent Turkish, German and English. You can have a contact person in your language with whom you can be in contact at any time. This enables you to check the current status of the project.",
+    "newDet" : "Our location in the metropolis of Istanbul and years of cooperation with many brands gives you an advantage. We take you by the hand and advise you successfully on your launch.",
+    "cusDet" : "FK Textile uses its fashion sense to offer you individual collections that are in line with current trends and allow you to express your own style.",
+    "quaDet" : "FK Textile is characterised by the use of high-quality fabrics, precise workmanship and strict quality controls. From experience, we know what matters.",
+    "strDet" : "We are at your side with advice and support - from the idea to the marketing of your own brand. Benefit from our many years of experience and our broad network of partners."
+  },
+  "counts" : {
+    "work" : "WORKERS",
+    "products" : "Our annual product production volume",
+    "projects" : "PROJECTS"
+  },
+  "references" : "REFERENCES"
+  }

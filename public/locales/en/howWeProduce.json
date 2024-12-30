@@ -1,0 +1,16 @@
+{
+  "itemsName": {
+    "desired": "Desired Product Details",
+    "desiredDet": "To meet your manufacturing request accurately, our team requires specific information to guide production. Here are the key details: \n1. Order Quantity Per Style and Color: Please provide the exact quantity for each style and color combination. \n2. Design Details: Include all necessary design elements such as branding logos, graphics, and unique patterns. \n3. Logo Application Method: Specify whether you prefer embroidery or printing for your logo application. \n4. Size Chart: If a size chart is unavailable, you can send a fit sample for adjustments, ensuring the correct fit for all sizes. 5. Fabric Details: For those unfamiliar with fabric specifications, sending a sample product will help us identify the appropriate fabric quality.\nEven if your provided details are incomplete, simply fill out our inquiry form. Our service advisors will help you finalize the missing information to ensure a smooth manufacturing process.",
+    "price": "Price Quote",
+    "priceDet": "As one of the best clothing manufacturers in Turkey, we prepare our price quotes based on the following critical factors:\n1. Fabric Quality and GSM: The weight and type of fabric used play a significant role in pricing.\n2. Product Model and Pattern: Unique designs may incur additional costs.\n3. Print & Embroidery Design: The level of detail in printing or embroidery influences pricing.\n4. Accessory Requests: Custom accessories like zippers, drawcords, or jacquard tapes are considered in the quote.\nTo ensure accurate pricing, we analyze all these factors carefully. For example, pricing a sweatshirt solely on its model or pattern won’t provide a comprehensive cost estimate. Providing detailed information is essential.",
+    "quality": "Quality Sample",
+    "qualityDet": "The purpose of producing Quality Sample is to show you the fit you want with the right quality fabric. This sample is made with any color fabric.\nOnce your order is placed, our team begins by creating a quality sample for your review. This initial sample includes:\n1. Fabric Quality: Ensuring the fabric aligns with your specifications.\n2. Product Pattern: Designed based on your order requirements.\n3. Sewing Details: Stitching quality is closely monitored for durability and design accuracy.\nWe oTer samples in diTerent sizes (Small, Medium, Large) and colors to match your preferences. After receiving feedback, we make corrections and finalize the production plan based on your comments.",
+    "lab": "Lab Dips",
+    "labDet": "Lab dips are created to ensure the colors you choose are accurately represented. Using small fabric samples dyed to match Pantone colors, we guarantee color precision. The approved colors are then used for large-scale fabric production.",
+    "pps": "PPS (Pre production samples)",
+    "ppsDet": "Before mass production, a pre-production sample (PPS) is prepared. This sample reflects:\n1. Feedback and changes made during the quality sample stage.\n2. Fabric dyed to match the approved color specifications.\nAs a reliable private-label clothing manufacturer in Turkey, our PPS process ensures the final product meets your design and quality expectations.",
+    "bulk" : "Bulk Manufacturing"
+  },
+  "howWe" : "HOW WE PRODUCE"
+}

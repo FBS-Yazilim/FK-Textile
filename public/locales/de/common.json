@@ -1,0 +1,39 @@
+{
+  "scrollDown" : "Runterscrollen",
+  "production-process" : "Unser Produktionsprozess",
+  "rapid-line" : "Rapid Line, die mit der Produktion aus Lagerstoffen eine Lieferung in 2-3 Wochen ermöglicht.",
+  "chart": {
+    "design": "Design - Mode",
+    "fabric": "Stoff R&D",
+    "sample": "Muster",
+    "cutting": "Zuschneiden und Nähen",
+    "quality": "Qualitätskontrolle",
+    "delivery": "Lieferung"
+  },
+  "forMore": {
+    "1": "Für weitere Informationen finden Sie Details in unserer",
+    "2": "Wie wir produzieren",
+    "3": "Sektion."
+  },
+  "whyChoose" : "WARUM UNS WÄHLEN",
+  "whyChooseSec" : {
+    "com" : "Kommunikation",
+    "new" : "Netzwerk",
+    "cus" : "Individuell",
+    "qua" : "Qualität zu einem fairen Preis",
+    "str" : "Strategische Unterstützung"
+  },
+  "whyChooseSecDet" : {
+    "comDet" : "Wir sprechen fließend Türkisch, Deutsch und Englisch. Sie können jederzeit einen Ansprechpartner in Ihrer Sprache kontaktieren, um den aktuellen Status Ihres Projekts zu erfahren.",
+    "newDet" : "Unsere Lage in der Metropole Istanbul und die jahrelange Zusammenarbeit mit vielen Marken verschaffen Ihnen Vorteile. Wir begleiten Sie erfolgreich bei Ihrem Markteintritt.",
+    "cusDet" : "FK Textile nutzt sein Modebewusstsein, um Ihnen individuelle Kollektionen anzubieten, die aktuellen Trends entsprechen und Ihren eigenen Stil zum Ausdruck bringen.",
+    "quaDet" : "FK Textile zeichnet sich durch die Verwendung hochwertiger Stoffe, präzise Verarbeitung und strenge Qualitätskontrollen aus. Aus Erfahrung wissen wir, worauf es ankommt.",
+    "strDet" : "Wir stehen Ihnen von der Idee bis zur Vermarktung Ihrer eigenen Marke mit Rat und Tat zur Seite. Profitieren Sie von unserer jahrelangen Erfahrung und unserem breiten Partnernetzwerk."
+  },
+  "counts" : {
+    "work" : "ARBEITER",
+    "products" : "Unsere jährliche Produktionsmenge",
+    "projects" : "PROJEKTE"
+  },
+  "references" : "REFERENZEN"
+}

@@ -1,0 +1,30 @@
+{
+  "aboutUS": "ÜBER UNS",
+  "about": "ÜBER",
+  "whoWe": "WER WIR SIND",
+  "whoWeDet": "Gegründet im Jahr 2015 ist FK Textile ein führender Hersteller, der sich auf Rundstrickwaren für Streetwear, Damenmode und Kindermode spezialisiert hat. Mit einem Ruf für hochwertige Bekleidungsproduktion arbeiten wir mit Marken zusammen, um ihre einzigartigen Designs zum Leben zu erwecken. Durch die Kombination unserer Expertise in Stoffproduktion, Planung und Anpassung bleiben wir an der Spitze der Modeherstellungsindustrie und liefern trendbewusste und nachhaltige Kleidungsstücke.",
+  "whatWe": "WAS WİR TUN",
+  "whatWeDet": "Bei FK Textile verwandeln wir kreative Visionen in Realität, indem wir innovative Bekleidungsfertigungslösungen anbieten, die auf die Bedürfnisse von Streetwear-, Damenmode- und Kindermodenmarken zugeschnitten sind. Von der Materialauswahl bis hin zu den abschließenden Qualitätskontrollen spiegelt jedes von uns hergestellte Kleidungsstück erstklassige Handwerkskunst und Einhaltung strenger Qualitätsstandards wider. Mit einem flexiblen Produktionsmodell, darunter Standardproduktion (6-8 Wochen), Schnellproduktion (4-6 Wochen) und Super-Schnellproduktion (3-4 Wochen), gewährleisten wir termingerechte Lieferung ohne Qualitätseinbußen. Indem wir globale Modetrends genau beobachten und unser Fachwissen in nachhaltiger Fertigung nutzen, liefern wir trendbewusste, maßgeschneiderte Textilien, die den modernen Anforderungen an ethische Praktiken und umweltfreundliche Lösungen gerecht werden.",
+  "ourMis": "UNSERE MISSION",
+  "ourMisList": {
+    "1": "Stoffqualität:",
+    "1Det": "Stellen Sie ein Referenzstoffmuster von überall bereit.",
+    "2": "Größenpassform:",
+    "2Det": "Teilen Sie ein Größenbasis-Muster, das auf einem Produkt basiert, das Ihnen gefällt.",
+    "3": "Grafiken & Produktdetails:",
+    "3Det": "Grafiken & Produktdetails:"
+  },
+  "ourMisDet": "Unsere Mission ist es, die Branche in der nachhaltigen Modeproduktion anzuführen und dabei ein starkes Engagement für Innovation, Qualität und Kundenzufriedenheit aufrechtzuerhalten. Wir möchten Marken mit den Werkzeugen ausstatten, um wettbewerbsfähig zu bleiben, indem wir ihnen nachhaltig gefertigte Kleidungsstücke liefern, die mit ihrer Vision übereinstimmen. Bei FK Textile integrieren wir ethische Praktiken, setzen Prioritäten auf die Umwelt und sorgen dafür, dass jeder Schritt unseres Prozesses zu einer grüneren Zukunft beiträgt.",
+  "loc": "STANDORT",
+  "locDet": "Unser Hauptsitz befindet sich unter:\nFK Textile\nMahmutbey, Gözde Kutu Plaza, Etage 2, Soğuksu Cd. Nr. 22, 34218 Bağcılar/Istanbul",
+  "ofHo": "ÖFFNUNGSZEITEN",
+  "ofHoDet": "Unser Büro ist geöffnet von Montag bis Freitag:",
+  "ofHoDays": {
+    "1": "Montag bis Freitag: 9:00 - 18:00 Uhr",
+    "2": "Samstag: 10:00 - 16:00 Uhr",
+    "3": "Sonntag: Geschlossen"
+  },
+  "social": "SOZIALE MEDIEN",
+  "follow": "FOLGEN SIE UNS",
+  "ourGal": "UNSERE GALERIE"
+}

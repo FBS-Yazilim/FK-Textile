@@ -1,0 +1,25 @@
+{
+  "manu" : "MANUFACTURING",
+  "items" : {
+    "fabric" : "Fabric Production & Control",
+    "cad" : "Cad & Cut",
+    "print" : "Print & Embroidery",
+    "bulk" : "Bulk Manufacturing",
+    "acc" : "Accessory Production & Applications",
+    "qua" : "Quality Control",
+    "ship" : "Shipment"
+  },
+  "itemsDet" : {
+    "fabricDet" : "At FK Textile, we utilize advanced circular knitting systems to ensure precision in fabric production. By setting the correct yarn length and machine parameters, we produce defect-free, high-quality fabrics. This meticulous process sets us apart as a leading private-label clothing manufacturer in Turkey.",
+    "cadDet" : "Approved designs are digitized into our CAD system for pattern creation. Fabric cutting is done using automated or semi-automated systems, maintaining confidentiality for all custom and private-label clothing projects.",
+    "printDet" : "We combine advanced printing and embroidery techniques for your designs: \n• Screen Printing: Durable and bold, perfect for vibrant designs. \n• Digital Printing: High-definition graphics with Oeko-Tex-certified dyes. \n• Heat Transfer Printing: Non-toxic, vivid colors for standout designs. \n• Embossed Printing: Adds a premium 3D eTect to your apparel. Our embroidery work is performed on Tajima and Barudan machines, ensuring precision for detailed logos or patterns. Using premium threads, we deliver flawless embroidery for all private-label clothing manufacturer projects.",
+    "bulkDet" : "We have the capacity to produce up to 4 million units annually. At this stage, patterns and designs are meticulously brought to life by our skilled team using state-of-the-art machinery.",
+    "accDet" : "Accessories play a crucial role in branding. As one of the top clothing manufacturers in Turkey, we oTer a range of custom accessories, including drawcords, zippers, jacquard tape bands, and rubber tapes, to elevate your designs.",
+    "quaDet" : "Before shipping, all products undergo stringent QS (Quality Control) checks. A formal report is shared with clients, ensuring the product quality meets your expectations. Packaging, barcoding, and labeling are customized to your needs. \n You can work with Independent Qs company for independent control and make shipment after you are sure about your products.",
+    "shipDet" : "Once production is completed, we provide a shipment checklist detailing the number of boxes, product counts, and weights. Delivery options include: \n• Highway \n• Airline \n• Seaway \n• Railroad \nShipping can be arranged by the client or facilitated by FK Textile for a seamless delivery experience. Even if not all Clothing production services Turkey companies do this, Fk Textile organizes to support you in the transportation phase even if you do not have a transportation company."
+  },
+
+
+
+  "showLab" : "Show Lab Results"
+}

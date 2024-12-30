@@ -1,0 +1,30 @@
+{
+  "aboutUS" :"ABOUT US",
+  "about" :"ABOUT",
+  "whoWe" :"WHO WE ARE",
+  "whoWeDet" :"Founded in 2015, FK Textile is a premier manufacturer specializing in circular knitting for streetwear, women’s wear, and kidswear. With a reputation built on high-quality apparel production, we partner with brands to bring their unique designs to life. By combining our expertise in fabric production, planning, and adaptation, we stay at the forefront of the fashion manufacturing industry, delivering trend-forward and sustainable garments..",
+  "whatWe" :"WHAT WE DO",
+  "whatWeDet" :"At FK Textile, we transform creative visions into reality by offering innovative apparel manufacturing solutions tailored to the needs of streetwear, women’s wear, and kidswear brands. From material selection to final quality checks, every garment we produce reflects premium craftsmanship and adherence to strict quality standards. With a flexible production model, including Standard Production (6-8 weeks), Fast Production (4-6 weeks), and Super-Fast Production (3-4 weeks), we ensure timely delivery without compromising quality. By closely monitoring global fashion trends and leveraging our expertise in sustainable manufacturing, we deliver trend-forward, customized textiles that align with modern demands for ethical practices and environmentally friendly solutions.",
+  "ourMis" :"OUR MISSION",
+  "ourMisList" : {
+    "1" : "Fabric Quality:",
+    "1Det" : "Provide a reference fabric sample from anywhere.",
+    "2" : "Size Fit:",
+    "2Det" : "Share a size base pattern, referencing a product you like",
+    "3" : "Graphics & Product Details:",
+    "3Det" : "Graphics & Product Details:"
+  },
+  "ourMisDet" :"Our mission is to lead the industry in sustainable fashion manufacturing while maintaining a strong commitment to innovation, quality, and customer satisfaction. We aim to empower brands with the tools to stay competitive, providing them with sustainably crafted garments that resonate with their vision. At FK Textile, we integrate ethical practices, prioritize the environment, and ensure every step of our process contributes to a greener future.",
+  "loc" :"LOCATION",
+  "locDet" :"Our headquarters are located at:\nFK Textile\nMahmutbey, Gözde Kutu Plaza, Floor 2, Soğuksu Cd. No:22, 34218 Bağcılar/İstanbul",
+  "ofHo" :"Office Hours",
+  "ofHoDet" :"Our office is open from Monday to Friday:",
+  "ofHoDays" :{
+    "1" : "Monday to Friday: 9:00 AM - 6:00 PM",
+    "2" : "Saturday: 10:00 AM - 4:00 PM",
+    "3" : "Sunday: Closed"
+  },
+  "social" :"SOCIAL MEDIA",
+  "follow" :"FOLLOW US",
+  "ourGal" :"OUR GALLERY"
+}
